@@ -23,7 +23,7 @@ bool ispalindrome(string s,int i,int j)
         }
     }
 }
-
+/*extra*/
 int solve (string s,int i,int j)
 {
     if(i>=j)
